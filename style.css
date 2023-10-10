@@ -1,0 +1,56 @@
+nav {
+    font-family: "lato", sans-serif;
+    font-weight: 300;
+    position: sticky;
+    top: 0px;
+    z-index: 1;
+    background-color: white;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+a:hover {
+    color: black;
+}
+a:visited {
+    color: black;
+}
+.line {
+    height: 150px;
+}
+.card {
+    font-family: "lato", sans-serif;
+    font-weight: 100;
+    max-width: 800px;
+}
+.card h2 {
+    font-size: 2rem;
+}
+.card h3 {
+    font-size: 1.2rem;
+}
+h3 {
+    font-size: 1.2rem;
+}
+.card h4 {
+    font-size: 1rem;
+}
+.card h5 {
+    writing-mode: vertical-lr;
+    color: rgb(191, 191, 191);
+}
+.table {
+    max-width: 500px;
+}
+.card-interests {
+    min-width: 250px;
+    max-width: 250px;
+}
+#contact-section {
+    font-family: "lato", sans-serif;
+    font-weight: 100;
+}
+span {
+    font-weight: 400;
+}
